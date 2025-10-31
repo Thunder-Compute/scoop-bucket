@@ -1,0 +1,12 @@
+{
+  "version": "0.1.20",
+  "description": "Thunder Compute CLI",
+  "homepage": "https://github.com/Thunder-Compute/thunder-cli",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "s3 bucket",
+      "bin": ["tnr.exe"]
+    }
+  }
+}
