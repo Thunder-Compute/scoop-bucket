@@ -1,0 +1,22 @@
+{
+    "version": "0.1.25",
+    "architecture": {
+        "64bit": {
+            "url": "https://thunder-cli-releases.s3.ap-southeast-2.amazonaws.com/tnr/releases/0.1.25/tnr_0.1.25_windows_amd64.zip",
+            "bin": [
+                "tnr.exe"
+            ],
+            "hash": "e1b7c5d8820ed18683459b730faa1d68eb912da5861ce721dce051f0573ccac0"
+        },
+        "arm64": {
+            "url": "https://thunder-cli-releases.s3.ap-southeast-2.amazonaws.com/tnr/releases/0.1.25/tnr_0.1.25_windows_arm64.zip",
+            "bin": [
+                "tnr.exe"
+            ],
+            "hash": "f15a140949b551d5f8130520ba9774b4f814aeddd05f0cf5f32283b9dd65b842"
+        }
+    },
+    "homepage": "https://github.com/Thunder-Compute/thunder-cli",
+    "license": "MIT",
+    "description": "Thunder Compute CLI"
+}
