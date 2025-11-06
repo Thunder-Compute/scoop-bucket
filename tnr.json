@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://thunder-cli-releases.s3.ap-southeast-2.amazonaws.com/tnr/releases/0.0.2/windows/tnr_0.0.2_windows_amd64.zip",
+            "url": "https://thunder-cli-releases.s3.ap-southeast-2.amazonaws.com/tnr/releases/0.0.1/windows/tnr_0.0.1_windows_amd64.zip",
             "bin": [
                 "tnr.exe"
             ],
-            "hash": "01a0a28332a210914ab7de7fa7eeb5985fef3bd4b1b8f282d08b4329ed18750b"
+            "hash": "420dbecd7664ac44663265f13ed2f4daec1f7c3baf8ff9c7c146da3a980559ec"
         },
         "arm64": {
-            "url": "https://thunder-cli-releases.s3.ap-southeast-2.amazonaws.com/tnr/releases/0.0.2/windows/tnr_0.0.2_windows_arm64.zip",
+            "url": "https://thunder-cli-releases.s3.ap-southeast-2.amazonaws.com/tnr/releases/0.0.1/windows/tnr_0.0.1_windows_arm64.zip",
             "bin": [
                 "tnr.exe"
             ],
-            "hash": "c7a303089809c7375e3e5eb61b6d613f1a459f980f96eed23d4689ad1963872b"
+            "hash": "0c26a93a5005c7edd9136a21830c34613e6ba62fc354ba9a137d4e57672b097b"
         }
     },
     "homepage": "https://github.com/Thunder-Compute/thunder-cli",
