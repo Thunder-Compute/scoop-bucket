@@ -1,19 +1,19 @@
 {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "architecture": {
         "64bit": {
-            "url": "https://thunder-cli.https://d278c75fc604cd36f610ff115e11f48c.r2.cloudflarestorage.com/tnr/releases/2.0.3/windows/tnr_2.0.3_windows_amd64.zip",
+            "url": "https://thunder-cli.https://d278c75fc604cd36f610ff115e11f48c.r2.cloudflarestorage.com/tnr/releases/2.0.4/windows/tnr_2.0.4_windows_amd64.zip",
             "bin": [
                 "tnr.exe"
             ],
-            "hash": "f971a653a28a3b156c5a6a1fa1858564c5333859d3d6797630632f2ca52bbd27"
+            "hash": "ebbf9de26bcedc5c3e6d28a94a95833f305c1ad673f5d2508501aaa36d01d86f"
         },
         "arm64": {
-            "url": "https://thunder-cli.https://d278c75fc604cd36f610ff115e11f48c.r2.cloudflarestorage.com/tnr/releases/2.0.3/windows/tnr_2.0.3_windows_arm64.zip",
+            "url": "https://thunder-cli.https://d278c75fc604cd36f610ff115e11f48c.r2.cloudflarestorage.com/tnr/releases/2.0.4/windows/tnr_2.0.4_windows_arm64.zip",
             "bin": [
                 "tnr.exe"
             ],
-            "hash": "698e1919bbb7cc4b478871b671dcf1c6907c53deb011077c1233fc957c15aa6c"
+            "hash": "5b2a5dcd4a7e2a053bb2f7afbb37ff2215f3f4e0224227a69a6831fe6b1be926"
         }
     },
     "homepage": "https://github.com/Thunder-Compute/thunder-cli",
