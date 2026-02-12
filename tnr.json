@@ -1,19 +1,19 @@
 {
-    "version": "2.0.28",
+    "version": "2.0.30",
     "architecture": {
         "64bit": {
-            "url": "https://storage.googleapis.com/thunder-cli/tnr/releases/2.0.28/windows/tnr_2.0.28_windows_amd64.zip",
+            "url": "https://storage.googleapis.com/thunder-cli/tnr/releases/2.0.30/windows/tnr_2.0.30_windows_amd64.zip",
             "bin": [
                 "tnr.exe"
             ],
-            "hash": "63a80470669d31a8f8c4ce0ff8dae91891b72b105acc427f4813765ecc3717b7"
+            "hash": "b746975170f7bd7e79a355b07e0ed3480b683d61b182269317e406e2d185ee60"
         },
         "arm64": {
-            "url": "https://storage.googleapis.com/thunder-cli/tnr/releases/2.0.28/windows/tnr_2.0.28_windows_arm64.zip",
+            "url": "https://storage.googleapis.com/thunder-cli/tnr/releases/2.0.30/windows/tnr_2.0.30_windows_arm64.zip",
             "bin": [
                 "tnr.exe"
             ],
-            "hash": "3664c980221f88db7c0b0476533fba7ee7b1f836e7975c6b627f610af600d8b7"
+            "hash": "e6f88488032c76a609110dfd7e2de698f00b6e598f59da9b76227fe08bb96aea"
         }
     },
     "homepage": "https://github.com/Thunder-Compute/thunder-cli",
